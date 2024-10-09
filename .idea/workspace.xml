@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0919ea64-e4fb-4402-a9db-2586905b70e1" name="Changes" comment="TitleDeserializer interface">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvTitleDeserializer.java" afterDir="false" />
+    <list default="true" id="0919ea64-e4fb-4402-a9db-2586905b70e1" name="Changes" comment="FileTitleLoader class">
+      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +77,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728467858099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TsvTitleDeserializer class">
+      <option name="closed" value="true" />
+      <created>1728468019228</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728468019228</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FileTitleLoader class">
+      <option name="closed" value="true" />
+      <created>1728468173940</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728468173940</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Title class" />
     <MESSAGE value="TitleLoader interface" />
     <MESSAGE value="TitleDeserializer interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="TitleDeserializer interface" />
+    <MESSAGE value="TsvTitleDeserializer class" />
+    <MESSAGE value="FileTitleLoader class" />
+    <option name="LAST_COMMIT_MESSAGE" value="FileTitleLoader class" />
   </component>
 </project>
